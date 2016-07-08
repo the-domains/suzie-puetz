@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Suzie Puetz Photography
-datePublished: '2016-07-08T19:48:01.660Z'
-dateModified: '2016-07-08T18:59:33.393Z'
+description: Specializing in High School Seniors and Families
+datePublished: '2016-07-08T19:51:52.571Z'
+dateModified: '2016-07-08T19:51:44.424Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-suzie-puetz-photography.md
@@ -17,9 +17,7 @@ url: suzie-puetz-photography/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e246adbb-5fc7-4fd8-84d2-afd9fb22dffc.jpg)
-
-Suzie Puetz Photography
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8effa00b-3aac-4795-bc00-9d66937538e1.jpg)
 
 Specializing in High School Seniors and Families
 
