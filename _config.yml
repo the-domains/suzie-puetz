@@ -1,0 +1,28 @@
+name: Suzie Puetz
+favicon: null
+layout_spectrum: 0.039722988149151206
+typography_spectrum: 0.15968984877690673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09951932961121202
+  lightness: 0.35026919934898615
+  saturation: 0.3144034091383219
+  rhythmicContrast: 0.5857471905183047
+purpose: []
